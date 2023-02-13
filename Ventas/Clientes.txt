@@ -1,0 +1,9 @@
+1;1101;Jose;Carrillo
+2;1005;Ana;Ariza
+3;1049;Juan;Tellez
+4;1102;Luis;Roa
+5;1234;Pepa;Pig
+6;1395;Liss;Rodriguez
+7;1010;Ney;Mosquera
+8;1105;Fabian;Fontecha
+9;1382;Diego;Maradona
